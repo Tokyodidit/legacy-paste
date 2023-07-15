@@ -1,0 +1,67 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  aimbot.cpp
+  bonesetup.cpp
+  button.cpp
+  callbacks.cpp
+  chams.cpp
+  checkbox.cpp
+  client.cpp
+  clientstate.cpp
+  colorpicker.cpp
+  config.cpp
+  edit.cpp
+  entity.cpp
+  events.cpp
+  firebullets.cpp
+  keybind.cpp
+  matchframework.cpp
+  materialsystem.cpp
+C:\Users\marcu\Documents\GitHub\legacy-paste\client.cpp(50,21): warning C4002: too many arguments for function-like macro invocation 'XOR'
+C:\Users\marcu\Documents\GitHub\legacy-paste\aimbot.cpp(945,46): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\marcu\Documents\GitHub\legacy-paste\chams.cpp(245,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\marcu\Documents\GitHub\legacy-paste\chams.cpp(282,13): warning C4101: 'record': unreferenced local variable
+  shadowmgr.cpp
+  csgo.cpp
+  cvar.cpp
+  modelrender.cpp
+  dropdown.cpp
+  entry.cpp
+  form.cpp
+  grenades.cpp
+  gui.cpp
+  hooks.cpp
+  hvh.cpp
+  engine.cpp
+  knifebot.cpp
+  lagcomp.cpp
+  clientdll.cpp
+  shots.cpp
+C:\Users\marcu\Documents\GitHub\legacy-paste\clientdll.cpp(66,1): warning C4405: 'in': identifier is reserved word
+C:\Users\marcu\Documents\GitHub\legacy-paste\clientdll.cpp(67,1): warning C4405: 'out': identifier is reserved word
+  skins.cpp
+  surface.cpp
+  math.cpp
+  movement.cpp
+  multidropdown.cpp
+  netdata.cpp
+  clientmode.cpp
+  panel.cpp
+  penetration.cpp
+  player.cpp
+  pred.cpp
+  netchannel.cpp
+  render.cpp
+  viewrender.cpp
+  resolver.cpp
+  prediction.cpp
+C:\Users\marcu\Documents\GitHub\legacy-paste\resolver.cpp(353,18): warning C4804: '<': unsafe use of type 'bool' in operation
+  renderview.cpp
+  slider.cpp
+  visuals.cpp
+  wndproc.cpp
+C:\Users\marcu\Documents\GitHub\legacy-paste\movement.cpp(636): warning C4724: potential mod by 0
+C:\Users\marcu\Documents\GitHub\legacy-paste\resolver.cpp(400): warning C4715: 'CheckLBY': not all control paths return a value
+C:\Users\marcu\Documents\GitHub\legacy-paste\visuals.cpp(487,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marcu\Documents\GitHub\legacy-paste\visuals.cpp(2318,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marcu\Documents\GitHub\legacy-paste\visuals.cpp(2336,20): warning C4018: '<': signed/unsigned mismatch
+  supremacy_csgo.vcxproj -> C:\Users\marcu\Documents\GitHub\legacy-paste\output\squidware.dll

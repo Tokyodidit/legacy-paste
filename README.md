@@ -1,2 +1,4 @@
-# legacy-paste
-shitty paste im making for 2018 hvh  based of loads of cheats reworking resolver and visuals :3
+# AutismWare
+warez of autism
+
+keep this organised, comment your work and dont override changes by others for no reason. try to only push bigger updates instead of pushing like 6 small ones at a time.
